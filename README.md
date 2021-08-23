@@ -1,3 +1,11 @@
+ARCHIVED NOTE
+=============
+
+This was a fork from the original to upgrade to the current version at the time of install. It worked.
+It was intended as a pull request, so all the links and instructions below point to the original repository.
+It is not longer current, and I am not paying any attention to it. So... archived.
+
+
 Alfresco FreeBSD install
 ========================
 This install script and guide was created by Kristoffer Andergrim. 
